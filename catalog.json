@@ -1,0 +1,2351 @@
+[
+  {
+    "description": "A pale bull with a curled tail and bent legs. Part of the Walters W.73 Zodiac set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "bull",
+      "with",
+      "bent",
+      "legs",
+      "zodiac"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "cream",
+      "brown",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "bull-with-bent-legs",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1r",
+    "png": "png/bull-with-bent-legs.png",
+    "webp": "webp/bull-with-bent-legs.webp",
+    "width": 1139,
+    "height": 958,
+    "png_bytes": 906729,
+    "webp_bytes": 678694,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/bull-with-bent-legs.png",
+        "webp": "webp/128/bull-with-bent-legs.webp",
+        "width": 128,
+        "height": 108,
+        "png_bytes": 20080,
+        "webp_bytes": 14968
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/bull-with-bent-legs.png",
+        "webp": "webp/256/bull-with-bent-legs.webp",
+        "width": 256,
+        "height": 215,
+        "png_bytes": 63523,
+        "webp_bytes": 46586
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/bull-with-bent-legs.png",
+        "webp": "webp/512/bull-with-bent-legs.webp",
+        "width": 512,
+        "height": 431,
+        "png_bytes": 208337,
+        "webp_bytes": 153204
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/bull-with-bent-legs.png",
+        "webp": "webp/768/bull-with-bent-legs.webp",
+        "width": 768,
+        "height": 646,
+        "png_bytes": 432163,
+        "webp_bytes": 325522
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram of the zodiac",
+      "object_identifier": "W.73, fol. 1r",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ffb54e2de949fa417ec244b99ad1575df380308d6a7466a29078367df143d568",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000003_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source painting retains its worn original pigment. The zodiac proceeds counterclockwise in this diagram; identity is checked against the institution description and visible original, rather than inferred from clockwise order. Labels and diagram divisions are excluded from the exterior. Original diagram strokes crossing painted subject pixels remain historical source texture. Any rigid orientation correction is recorded. Source authority: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1r-set",
+        "name": "Walters W.73 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9282,
+      "height": 12192
+    },
+    "master_longest_dimension_cap": 1139,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A centaur archer with a bow and arrow, combining the original human torso and equine body. Part of the Walters W.73 Zodiac set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "centaur",
+      "archer",
+      "with",
+      "bow",
+      "zodiac"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "cream",
+      "brown",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "centaur-archer-with-bow",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1r",
+    "png": "png/centaur-archer-with-bow.png",
+    "webp": "webp/centaur-archer-with-bow.webp",
+    "width": 1028,
+    "height": 910,
+    "png_bytes": 916271,
+    "webp_bytes": 731214,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/centaur-archer-with-bow.png",
+        "webp": "webp/128/centaur-archer-with-bow.webp",
+        "width": 128,
+        "height": 113,
+        "png_bytes": 24858,
+        "webp_bytes": 18888
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/centaur-archer-with-bow.png",
+        "webp": "webp/256/centaur-archer-with-bow.webp",
+        "width": 256,
+        "height": 227,
+        "png_bytes": 79820,
+        "webp_bytes": 60994
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/centaur-archer-with-bow.png",
+        "webp": "webp/512/centaur-archer-with-bow.webp",
+        "width": 512,
+        "height": 453,
+        "png_bytes": 265219,
+        "webp_bytes": 213144
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/centaur-archer-with-bow.png",
+        "webp": "webp/768/centaur-archer-with-bow.webp",
+        "width": 768,
+        "height": 680,
+        "png_bytes": 550601,
+        "webp_bytes": 457764
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram of the zodiac",
+      "object_identifier": "W.73, fol. 1r",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ffb54e2de949fa417ec244b99ad1575df380308d6a7466a29078367df143d568",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000003_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source painting retains its worn original pigment. The zodiac proceeds counterclockwise in this diagram; identity is checked against the institution description and visible original, rather than inferred from clockwise order. Labels and diagram divisions are excluded from the exterior. Original diagram strokes crossing painted subject pixels remain historical source texture. Any rigid orientation correction is recorded. Source authority: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1r-set",
+        "name": "Walters W.73 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9282,
+      "height": 12192
+    },
+    "master_longest_dimension_cap": 1028,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Pale eight-legged zodiac crab with four pairs of raised clawed legs and a pointed forked lower body. Part of the Walters W.73 Zodiac set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "six",
+      "legged",
+      "zodiac",
+      "crab"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "cream",
+      "brown",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "eight-legged-zodiac-crab",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1r",
+    "png": "png/eight-legged-zodiac-crab.png",
+    "webp": "webp/eight-legged-zodiac-crab.webp",
+    "width": 909,
+    "height": 965,
+    "png_bytes": 953172,
+    "webp_bytes": 742028,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/eight-legged-zodiac-crab.png",
+        "webp": "webp/128/eight-legged-zodiac-crab.webp",
+        "width": 121,
+        "height": 128,
+        "png_bytes": 27669,
+        "webp_bytes": 21096
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/eight-legged-zodiac-crab.png",
+        "webp": "webp/256/eight-legged-zodiac-crab.webp",
+        "width": 241,
+        "height": 256,
+        "png_bytes": 87970,
+        "webp_bytes": 66856
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/eight-legged-zodiac-crab.png",
+        "webp": "webp/512/eight-legged-zodiac-crab.webp",
+        "width": 482,
+        "height": 512,
+        "png_bytes": 293929,
+        "webp_bytes": 237218
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/eight-legged-zodiac-crab.png",
+        "webp": "webp/768/eight-legged-zodiac-crab.webp",
+        "width": 723,
+        "height": 768,
+        "png_bytes": 623696,
+        "webp_bytes": 516360
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram of the zodiac",
+      "object_identifier": "W.73, fol. 1r",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ffb54e2de949fa417ec244b99ad1575df380308d6a7466a29078367df143d568",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000003_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source painting retains its worn original pigment. The zodiac proceeds counterclockwise in this diagram; identity is checked against the institution description and visible original, rather than inferred from clockwise order. Labels and diagram divisions are excluded from the exterior. Original diagram strokes crossing painted subject pixels remain historical source texture. Any rigid orientation correction is recorded. Source authority: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1r-set",
+        "name": "Walters W.73 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9282,
+      "height": 12192
+    },
+    "master_longest_dimension_cap": 965,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A robed human figure holding a balance with a horizontal beam and two hanging scale pans. Part of the Walters W.73 Zodiac set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "figure",
+      "holding",
+      "balance",
+      "scales",
+      "zodiac"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "cream",
+      "brown",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "figure-holding-balance-scales",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1r",
+    "png": "png/figure-holding-balance-scales.png",
+    "webp": "webp/figure-holding-balance-scales.webp",
+    "width": 932,
+    "height": 860,
+    "png_bytes": 712487,
+    "webp_bytes": 552826,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/figure-holding-balance-scales.png",
+        "webp": "webp/128/figure-holding-balance-scales.webp",
+        "width": 128,
+        "height": 118,
+        "png_bytes": 22924,
+        "webp_bytes": 16894
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/figure-holding-balance-scales.png",
+        "webp": "webp/256/figure-holding-balance-scales.webp",
+        "width": 256,
+        "height": 236,
+        "png_bytes": 73377,
+        "webp_bytes": 55200
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/figure-holding-balance-scales.png",
+        "webp": "webp/512/figure-holding-balance-scales.webp",
+        "width": 512,
+        "height": 472,
+        "png_bytes": 242697,
+        "webp_bytes": 195122
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/figure-holding-balance-scales.png",
+        "webp": "webp/768/figure-holding-balance-scales.webp",
+        "width": 768,
+        "height": 709,
+        "png_bytes": 506488,
+        "webp_bytes": 417072
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram of the zodiac",
+      "object_identifier": "W.73, fol. 1r",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ffb54e2de949fa417ec244b99ad1575df380308d6a7466a29078367df143d568",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000003_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source painting retains its worn original pigment. The zodiac proceeds counterclockwise in this diagram; identity is checked against the institution description and visible original, rather than inferred from clockwise order. Labels and diagram divisions are excluded from the exterior. Original diagram strokes crossing painted subject pixels remain historical source texture. Any rigid orientation correction is recorded. Source authority: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1r-set",
+        "name": "Walters W.73 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9282,
+      "height": 12192
+    },
+    "master_longest_dimension_cap": 932,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A goat-headed Capricorn hybrid with forelegs, a curled fish tail and a mask-like terminal. Part of the Walters W.73 Zodiac set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "goat",
+      "headed",
+      "fish",
+      "tailed",
+      "capricorn",
+      "zodiac"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "cream",
+      "brown",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "goat-headed-fish-tailed-capricorn",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1r",
+    "png": "png/goat-headed-fish-tailed-capricorn.png",
+    "webp": "webp/goat-headed-fish-tailed-capricorn.webp",
+    "width": 991,
+    "height": 801,
+    "png_bytes": 774111,
+    "webp_bytes": 610104,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/goat-headed-fish-tailed-capricorn.png",
+        "webp": "webp/128/goat-headed-fish-tailed-capricorn.webp",
+        "width": 128,
+        "height": 103,
+        "png_bytes": 22074,
+        "webp_bytes": 17072
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/goat-headed-fish-tailed-capricorn.png",
+        "webp": "webp/256/goat-headed-fish-tailed-capricorn.webp",
+        "width": 256,
+        "height": 207,
+        "png_bytes": 70545,
+        "webp_bytes": 54038
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/goat-headed-fish-tailed-capricorn.png",
+        "webp": "webp/512/goat-headed-fish-tailed-capricorn.webp",
+        "width": 512,
+        "height": 414,
+        "png_bytes": 235920,
+        "webp_bytes": 190260
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/goat-headed-fish-tailed-capricorn.png",
+        "webp": "webp/768/goat-headed-fish-tailed-capricorn.webp",
+        "width": 768,
+        "height": 621,
+        "png_bytes": 490004,
+        "webp_bytes": 386646
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram of the zodiac",
+      "object_identifier": "W.73, fol. 1r",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ffb54e2de949fa417ec244b99ad1575df380308d6a7466a29078367df143d568",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000003_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source painting retains its worn original pigment. The zodiac proceeds counterclockwise in this diagram; identity is checked against the institution description and visible original, rather than inferred from clockwise order. Labels and diagram divisions are excluded from the exterior. Original diagram strokes crossing painted subject pixels remain historical source texture. Any rigid orientation correction is recorded. Source authority: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1r-set",
+        "name": "Walters W.73 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9282,
+      "height": 12192
+    },
+    "master_longest_dimension_cap": 991,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A left-facing haloed eagle head with pale blue wings. Part of the Walters W.7 Canon Table Evangelists set.",
+    "categories": [
+      "animals",
+      "fantasy"
+    ],
+    "subjects": [
+      "eagle",
+      "bird",
+      "head",
+      "halo",
+      "wing"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold",
+      "brown",
+      "cream",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "haloed-eagle-head-with-pale-blue-wings",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w7-1r",
+    "png": "png/haloed-eagle-head-with-pale-blue-wings.png",
+    "webp": "webp/haloed-eagle-head-with-pale-blue-wings.webp",
+    "width": 922,
+    "height": 539,
+    "png_bytes": 673577,
+    "webp_bytes": 539112,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/haloed-eagle-head-with-pale-blue-wings.png",
+        "webp": "webp/128/haloed-eagle-head-with-pale-blue-wings.webp",
+        "width": 128,
+        "height": 75,
+        "png_bytes": 19550,
+        "webp_bytes": 15404
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/haloed-eagle-head-with-pale-blue-wings.png",
+        "webp": "webp/256/haloed-eagle-head-with-pale-blue-wings.webp",
+        "width": 256,
+        "height": 150,
+        "png_bytes": 65580,
+        "webp_bytes": 53366
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/haloed-eagle-head-with-pale-blue-wings.png",
+        "webp": "webp/512/haloed-eagle-head-with-pale-blue-wings.webp",
+        "width": 512,
+        "height": 299,
+        "png_bytes": 226133,
+        "webp_bytes": 189498
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/haloed-eagle-head-with-pale-blue-wings.png",
+        "webp": "webp/768/haloed-eagle-head-with-pale-blue-wings.webp",
+        "width": 768,
+        "height": 449,
+        "png_bytes": 475673,
+        "webp_bytes": 395874
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Canon table",
+      "object_identifier": "W.7, fol. 1r",
+      "date": "Middle of the 11th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "34b0db64619284678b29c39f8514a8facfb6d64c2a95abd6cc54c85949689ea6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000005_1022.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible winged evangelist symbol, independently reusable alongside the complete canon-table frame. The architectural sill occludes its lower edge; no concealed body is restored. Painted pale feathers and halo beads are retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w7-1r-set",
+        "name": "Walters W.7 Canon Table Evangelists"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8949,
+      "height": 10134
+    },
+    "master_longest_dimension_cap": 922,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A frontal haloed lion head with pale gold wings. Part of the Walters W.7 Canon Table Evangelists set.",
+    "categories": [
+      "animals",
+      "fantasy"
+    ],
+    "subjects": [
+      "lion",
+      "head",
+      "halo",
+      "wing"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold",
+      "brown",
+      "cream",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "haloed-frontal-lion-head-with-pale-gold-wings",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w7-1r",
+    "png": "png/haloed-frontal-lion-head-with-pale-gold-wings.png",
+    "webp": "webp/haloed-frontal-lion-head-with-pale-gold-wings.webp",
+    "width": 948,
+    "height": 501,
+    "png_bytes": 640635,
+    "webp_bytes": 530722,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/haloed-frontal-lion-head-with-pale-gold-wings.png",
+        "webp": "webp/128/haloed-frontal-lion-head-with-pale-gold-wings.webp",
+        "width": 128,
+        "height": 68,
+        "png_bytes": 17920,
+        "webp_bytes": 14500
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/haloed-frontal-lion-head-with-pale-gold-wings.png",
+        "webp": "webp/256/haloed-frontal-lion-head-with-pale-gold-wings.webp",
+        "width": 256,
+        "height": 135,
+        "png_bytes": 59714,
+        "webp_bytes": 48422
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/haloed-frontal-lion-head-with-pale-gold-wings.png",
+        "webp": "webp/512/haloed-frontal-lion-head-with-pale-gold-wings.webp",
+        "width": 512,
+        "height": 271,
+        "png_bytes": 206207,
+        "webp_bytes": 170816
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/haloed-frontal-lion-head-with-pale-gold-wings.png",
+        "webp": "webp/768/haloed-frontal-lion-head-with-pale-gold-wings.webp",
+        "width": 768,
+        "height": 406,
+        "png_bytes": 432576,
+        "webp_bytes": 362078
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Canon table",
+      "object_identifier": "W.7, fol. 1r",
+      "date": "Middle of the 11th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "34b0db64619284678b29c39f8514a8facfb6d64c2a95abd6cc54c85949689ea6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000005_1022.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible winged evangelist symbol, independently reusable alongside the complete canon-table frame. The architectural sill occludes its lower edge; no concealed body is restored. Painted pale feathers and halo beads are retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w7-1r-set",
+        "name": "Walters W.7 Canon Table Evangelists"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8949,
+      "height": 10134
+    },
+    "master_longest_dimension_cap": 948,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A frontal haloed horned ox head with rose wings. Part of the Walters W.7 Canon Table Evangelists set.",
+    "categories": [
+      "animals",
+      "fantasy"
+    ],
+    "subjects": [
+      "ox",
+      "head",
+      "horn",
+      "halo",
+      "wing"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold",
+      "pink",
+      "cream",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "haloed-frontal-ox-head-with-rose-wings",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w7-1r",
+    "png": "png/haloed-frontal-ox-head-with-rose-wings.png",
+    "webp": "webp/haloed-frontal-ox-head-with-rose-wings.webp",
+    "width": 917,
+    "height": 506,
+    "png_bytes": 643910,
+    "webp_bytes": 520656,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/haloed-frontal-ox-head-with-rose-wings.png",
+        "webp": "webp/128/haloed-frontal-ox-head-with-rose-wings.webp",
+        "width": 128,
+        "height": 71,
+        "png_bytes": 19582,
+        "webp_bytes": 15290
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/haloed-frontal-ox-head-with-rose-wings.png",
+        "webp": "webp/256/haloed-frontal-ox-head-with-rose-wings.webp",
+        "width": 256,
+        "height": 141,
+        "png_bytes": 64288,
+        "webp_bytes": 51406
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/haloed-frontal-ox-head-with-rose-wings.png",
+        "webp": "webp/512/haloed-frontal-ox-head-with-rose-wings.webp",
+        "width": 512,
+        "height": 283,
+        "png_bytes": 218679,
+        "webp_bytes": 182736
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/haloed-frontal-ox-head-with-rose-wings.png",
+        "webp": "webp/768/haloed-frontal-ox-head-with-rose-wings.webp",
+        "width": 768,
+        "height": 424,
+        "png_bytes": 456581,
+        "webp_bytes": 373094
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Canon table",
+      "object_identifier": "W.7, fol. 1r",
+      "date": "Middle of the 11th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "34b0db64619284678b29c39f8514a8facfb6d64c2a95abd6cc54c85949689ea6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000005_1022.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible winged evangelist symbol, independently reusable alongside the complete canon-table frame. The architectural sill occludes its lower edge; no concealed body is restored. Painted pale feathers and halo beads are retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w7-1r-set",
+        "name": "Walters W.7 Canon Table Evangelists"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8949,
+      "height": 10134
+    },
+    "master_longest_dimension_cap": 917,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A haloed human head with gold wings. Part of the Walters W.7 Canon Table Evangelists set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "human",
+      "head",
+      "halo",
+      "wing"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "pink",
+      "gold",
+      "cream",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "haloed-human-head-with-gold-wings",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w7-1r",
+    "png": "png/haloed-human-head-with-gold-wings.png",
+    "webp": "webp/haloed-human-head-with-gold-wings.webp",
+    "width": 913,
+    "height": 553,
+    "png_bytes": 614810,
+    "webp_bytes": 479416,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/haloed-human-head-with-gold-wings.png",
+        "webp": "webp/128/haloed-human-head-with-gold-wings.webp",
+        "width": 128,
+        "height": 78,
+        "png_bytes": 19649,
+        "webp_bytes": 16692
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/haloed-human-head-with-gold-wings.png",
+        "webp": "webp/256/haloed-human-head-with-gold-wings.webp",
+        "width": 256,
+        "height": 155,
+        "png_bytes": 63278,
+        "webp_bytes": 50160
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/haloed-human-head-with-gold-wings.png",
+        "webp": "webp/512/haloed-human-head-with-gold-wings.webp",
+        "width": 512,
+        "height": 310,
+        "png_bytes": 210824,
+        "webp_bytes": 172426
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/haloed-human-head-with-gold-wings.png",
+        "webp": "webp/768/haloed-human-head-with-gold-wings.webp",
+        "width": 768,
+        "height": 465,
+        "png_bytes": 439771,
+        "webp_bytes": 351542
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Canon table",
+      "object_identifier": "W.7, fol. 1r",
+      "date": "Middle of the 11th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "34b0db64619284678b29c39f8514a8facfb6d64c2a95abd6cc54c85949689ea6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000005_1022.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible winged evangelist symbol, independently reusable alongside the complete canon-table frame. The architectural sill occludes its lower edge; no concealed body is restored. Painted pale feathers and halo beads are retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w7-1r-set",
+        "name": "Walters W.7 Canon Table Evangelists"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8949,
+      "height": 10134
+    },
+    "master_longest_dimension_cap": 913,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A lion with four legs, curled tail and a worn mane. Part of the Walters W.73 Zodiac set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "lion",
+      "with",
+      "curled",
+      "tail",
+      "zodiac"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "cream",
+      "brown",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "lion-with-curled-tail",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1r",
+    "png": "png/lion-with-curled-tail.png",
+    "webp": "webp/lion-with-curled-tail.webp",
+    "width": 1027,
+    "height": 857,
+    "png_bytes": 748520,
+    "webp_bytes": 584898,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/lion-with-curled-tail.png",
+        "webp": "webp/128/lion-with-curled-tail.webp",
+        "width": 128,
+        "height": 107,
+        "png_bytes": 19849,
+        "webp_bytes": 14402
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/lion-with-curled-tail.png",
+        "webp": "webp/256/lion-with-curled-tail.webp",
+        "width": 256,
+        "height": 214,
+        "png_bytes": 63548,
+        "webp_bytes": 47438
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/lion-with-curled-tail.png",
+        "webp": "webp/512/lion-with-curled-tail.webp",
+        "width": 512,
+        "height": 427,
+        "png_bytes": 209391,
+        "webp_bytes": 168710
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/lion-with-curled-tail.png",
+        "webp": "webp/768/lion-with-curled-tail.webp",
+        "width": 768,
+        "height": 641,
+        "png_bytes": 439060,
+        "webp_bytes": 362948
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram of the zodiac",
+      "object_identifier": "W.73, fol. 1r",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ffb54e2de949fa417ec244b99ad1575df380308d6a7466a29078367df143d568",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000003_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source painting retains its worn original pigment. The zodiac proceeds counterclockwise in this diagram; identity is checked against the institution description and visible original, rather than inferred from clockwise order. Labels and diagram divisions are excluded from the exterior. Original diagram strokes crossing painted subject pixels remain historical source texture. Any rigid orientation correction is recorded. Source authority: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1r-set",
+        "name": "Walters W.73 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9282,
+      "height": 12192
+    },
+    "master_longest_dimension_cap": 1027,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two armored mail-clad figures sharing one large triangular shield; their shared contact requires one group. Part of the Walters W.73 Zodiac set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "mail",
+      "clad",
+      "twins",
+      "with",
+      "shared",
+      "shield",
+      "zodiac"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "mail-clad-twins-with-shared-shield",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1r",
+    "png": "png/mail-clad-twins-with-shared-shield.png",
+    "webp": "webp/mail-clad-twins-with-shared-shield.webp",
+    "width": 1096,
+    "height": 940,
+    "png_bytes": 1045775,
+    "webp_bytes": 798520,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/mail-clad-twins-with-shared-shield.png",
+        "webp": "webp/128/mail-clad-twins-with-shared-shield.webp",
+        "width": 128,
+        "height": 110,
+        "png_bytes": 26119,
+        "webp_bytes": 19196
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/mail-clad-twins-with-shared-shield.png",
+        "webp": "webp/256/mail-clad-twins-with-shared-shield.webp",
+        "width": 256,
+        "height": 220,
+        "png_bytes": 80687,
+        "webp_bytes": 59908
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/mail-clad-twins-with-shared-shield.png",
+        "webp": "webp/512/mail-clad-twins-with-shared-shield.webp",
+        "width": 512,
+        "height": 439,
+        "png_bytes": 259577,
+        "webp_bytes": 205586
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/mail-clad-twins-with-shared-shield.png",
+        "webp": "webp/768/mail-clad-twins-with-shared-shield.webp",
+        "width": 768,
+        "height": 659,
+        "png_bytes": 540670,
+        "webp_bytes": 428888
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram of the zodiac",
+      "object_identifier": "W.73, fol. 1r",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ffb54e2de949fa417ec244b99ad1575df380308d6a7466a29078367df143d568",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000003_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Contacting twins with shared shield remain one group. The original diagram truncates lower shins/sword against its circular rule; only source-visible parts retained, with no invented feet or hidden anatomy. Original faint/worn native drawing preserved.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1r-set",
+        "name": "Walters W.73 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9282,
+      "height": 12192
+    },
+    "master_longest_dimension_cap": 1096,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Matthew writing at a lectern with original book, curved chair, bare feet and red footstool. Part of the Walters W.7 Matthew portrait ornaments set.",
+    "categories": [
+      "humans",
+      "reading"
+    ],
+    "subjects": [
+      "matthew",
+      "saint",
+      "book",
+      "pen",
+      "lectern",
+      "chair",
+      "footstool",
+      "halo"
+    ],
+    "facing": "right",
+    "colors": [
+      "brown",
+      "light-blue",
+      "red",
+      "gold",
+      "cream",
+      "blue"
+    ],
+    "composition": "single-figure",
+    "name": "matthew-writing-at-lectern-with-seat-and-footstool",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w7-15v",
+    "png": "png/matthew-writing-at-lectern-with-seat-and-footstool.png",
+    "webp": "webp/matthew-writing-at-lectern-with-seat-and-footstool.webp",
+    "width": 951,
+    "height": 1579,
+    "png_bytes": 1986976,
+    "webp_bytes": 1416312,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/matthew-writing-at-lectern-with-seat-and-footstool.png",
+        "webp": "webp/128/matthew-writing-at-lectern-with-seat-and-footstool.webp",
+        "width": 77,
+        "height": 128,
+        "png_bytes": 20200,
+        "webp_bytes": 16648
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/matthew-writing-at-lectern-with-seat-and-footstool.png",
+        "webp": "webp/256/matthew-writing-at-lectern-with-seat-and-footstool.webp",
+        "width": 154,
+        "height": 256,
+        "png_bytes": 70616,
+        "webp_bytes": 54652
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/matthew-writing-at-lectern-with-seat-and-footstool.png",
+        "webp": "webp/512/matthew-writing-at-lectern-with-seat-and-footstool.webp",
+        "width": 308,
+        "height": 512,
+        "png_bytes": 249350,
+        "webp_bytes": 183492
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/matthew-writing-at-lectern-with-seat-and-footstool.png",
+        "webp": "webp/768/matthew-writing-at-lectern-with-seat-and-footstool.webp",
+        "width": 463,
+        "height": 768,
+        "png_bytes": 529900,
+        "webp_bytes": 383940
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Portrait of the Evangelist Matthew",
+      "object_identifier": "W.7, fol. 15v",
+      "date": "Middle of the 11th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "cca95ef468d7a30acc6fc7fd7e301ff1a0819425f6c4c652f3baad6b977004ad",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000034_1022.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w7-15v-set",
+        "name": "Walters W.7 Matthew portrait ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8501,
+      "height": 10092
+    },
+    "master_longest_dimension_cap": 1579,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A ram with curled horns, hooves and a long curved tail. Part of the Walters W.73 Zodiac set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "ram",
+      "with",
+      "curled",
+      "horns",
+      "zodiac"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "cream",
+      "brown",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "ram-with-curled-horns",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1r",
+    "png": "png/ram-with-curled-horns.png",
+    "webp": "webp/ram-with-curled-horns.webp",
+    "width": 955,
+    "height": 927,
+    "png_bytes": 791959,
+    "webp_bytes": 601696,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/ram-with-curled-horns.png",
+        "webp": "webp/128/ram-with-curled-horns.webp",
+        "width": 128,
+        "height": 124,
+        "png_bytes": 25258,
+        "webp_bytes": 18580
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/ram-with-curled-horns.png",
+        "webp": "webp/256/ram-with-curled-horns.webp",
+        "width": 256,
+        "height": 248,
+        "png_bytes": 79300,
+        "webp_bytes": 58860
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/ram-with-curled-horns.png",
+        "webp": "webp/512/ram-with-curled-horns.webp",
+        "width": 512,
+        "height": 497,
+        "png_bytes": 257615,
+        "webp_bytes": 202210
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/ram-with-curled-horns.png",
+        "webp": "webp/768/ram-with-curled-horns.webp",
+        "width": 768,
+        "height": 745,
+        "png_bytes": 535017,
+        "webp_bytes": 432332
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram of the zodiac",
+      "object_identifier": "W.73, fol. 1r",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ffb54e2de949fa417ec244b99ad1575df380308d6a7466a29078367df143d568",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000003_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source painting retains its worn original pigment. The zodiac proceeds counterclockwise in this diagram; identity is checked against the institution description and visible original, rather than inferred from clockwise order. Labels and diagram divisions are excluded from the exterior. Original diagram strokes crossing painted subject pixels remain historical source texture. Any rigid orientation correction is recorded. Source authority: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1r-set",
+        "name": "Walters W.73 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9282,
+      "height": 12192
+    },
+    "master_longest_dimension_cap": 955,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A green-robed water bearer holding a large round jar and pouring its long wavy stream. Part of the Walters W.73 Zodiac set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "robed",
+      "water",
+      "bearer",
+      "pouring",
+      "round",
+      "jar",
+      "zodiac"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "cream",
+      "brown",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "robed-water-bearer-pouring-round-jar",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1r",
+    "png": "png/robed-water-bearer-pouring-round-jar.png",
+    "webp": "webp/robed-water-bearer-pouring-round-jar.webp",
+    "width": 835,
+    "height": 992,
+    "png_bytes": 728215,
+    "webp_bytes": 555130,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/robed-water-bearer-pouring-round-jar.png",
+        "webp": "webp/128/robed-water-bearer-pouring-round-jar.webp",
+        "width": 108,
+        "height": 128,
+        "png_bytes": 20844,
+        "webp_bytes": 16136
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/robed-water-bearer-pouring-round-jar.png",
+        "webp": "webp/256/robed-water-bearer-pouring-round-jar.webp",
+        "width": 215,
+        "height": 256,
+        "png_bytes": 65878,
+        "webp_bytes": 50372
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/robed-water-bearer-pouring-round-jar.png",
+        "webp": "webp/512/robed-water-bearer-pouring-round-jar.webp",
+        "width": 431,
+        "height": 512,
+        "png_bytes": 217301,
+        "webp_bytes": 170774
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/robed-water-bearer-pouring-round-jar.png",
+        "webp": "webp/768/robed-water-bearer-pouring-round-jar.webp",
+        "width": 646,
+        "height": 768,
+        "png_bytes": 453570,
+        "webp_bytes": 361140
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram of the zodiac",
+      "object_identifier": "W.73, fol. 1r",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ffb54e2de949fa417ec244b99ad1575df380308d6a7466a29078367df143d568",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000003_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source painting retains its worn original pigment. The zodiac proceeds counterclockwise in this diagram; identity is checked against the institution description and visible original, rather than inferred from clockwise order. Labels and diagram divisions are excluded from the exterior. Original diagram strokes crossing painted subject pixels remain historical source texture. Any rigid orientation correction is recorded. Source authority: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1r-set",
+        "name": "Walters W.73 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9282,
+      "height": 12192
+    },
+    "master_longest_dimension_cap": 992,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Pale zodiac woman in a flowing robe with both arms extended, upright after a rigid quarter-turn. Part of the Walters W.73 Zodiac set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "robed",
+      "woman",
+      "with",
+      "folded",
+      "sleeves",
+      "zodiac"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "cream",
+      "brown",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "robed-woman-with-outstretched-arms",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1r",
+    "png": "png/robed-woman-with-outstretched-arms.png",
+    "webp": "webp/robed-woman-with-outstretched-arms.webp",
+    "width": 948,
+    "height": 788,
+    "png_bytes": 712159,
+    "webp_bytes": 555648,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/robed-woman-with-outstretched-arms.png",
+        "webp": "webp/128/robed-woman-with-outstretched-arms.webp",
+        "width": 128,
+        "height": 106,
+        "png_bytes": 20570,
+        "webp_bytes": 15368
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/robed-woman-with-outstretched-arms.png",
+        "webp": "webp/256/robed-woman-with-outstretched-arms.webp",
+        "width": 256,
+        "height": 213,
+        "png_bytes": 67644,
+        "webp_bytes": 51418
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/robed-woman-with-outstretched-arms.png",
+        "webp": "webp/512/robed-woman-with-outstretched-arms.webp",
+        "width": 512,
+        "height": 426,
+        "png_bytes": 228856,
+        "webp_bytes": 176496
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/robed-woman-with-outstretched-arms.png",
+        "webp": "webp/768/robed-woman-with-outstretched-arms.webp",
+        "width": 768,
+        "height": 638,
+        "png_bytes": 482911,
+        "webp_bytes": 380046
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram of the zodiac",
+      "object_identifier": "W.73, fol. 1r",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ffb54e2de949fa417ec244b99ad1575df380308d6a7466a29078367df143d568",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000003_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source painting retains its worn original pigment. The zodiac proceeds counterclockwise in this diagram; identity is checked against the institution description and visible original, rather than inferred from clockwise order. Labels and diagram divisions are excluded from the exterior. Original diagram strokes crossing painted subject pixels remain historical source texture. Any rigid orientation correction is recorded. Source authority: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1r-set",
+        "name": "Walters W.73 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9282,
+      "height": 12192
+    },
+    "master_longest_dimension_cap": 948,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Saint Margaret emerging from a pale winged dragon within its original low crenellated foreground wall. Part of the St. Margaret emerging from Dragon (walters-w186-291v) set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "saint",
+      "dragon",
+      "wing",
+      "wall"
+    ],
+    "facing": "left",
+    "colors": [
+      "blue",
+      "gold",
+      "green",
+      "gray"
+    ],
+    "composition": "multiple-figures",
+    "name": "saint-margaret-emerging-from-winged-dragon",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w186-291v",
+    "png": "png/saint-margaret-emerging-from-winged-dragon.png",
+    "webp": "webp/saint-margaret-emerging-from-winged-dragon.webp",
+    "width": 1200,
+    "height": 1261,
+    "png_bytes": 1912738,
+    "webp_bytes": 1376604,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/saint-margaret-emerging-from-winged-dragon.png",
+        "webp": "webp/128/saint-margaret-emerging-from-winged-dragon.webp",
+        "width": 122,
+        "height": 128,
+        "png_bytes": 32026,
+        "webp_bytes": 25286
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/saint-margaret-emerging-from-winged-dragon.png",
+        "webp": "webp/256/saint-margaret-emerging-from-winged-dragon.webp",
+        "width": 244,
+        "height": 256,
+        "png_bytes": 109660,
+        "webp_bytes": 82184
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/saint-margaret-emerging-from-winged-dragon.png",
+        "webp": "webp/512/saint-margaret-emerging-from-winged-dragon.webp",
+        "width": 487,
+        "height": 512,
+        "png_bytes": 381121,
+        "webp_bytes": 280592
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/saint-margaret-emerging-from-winged-dragon.png",
+        "webp": "webp/768/saint-margaret-emerging-from-winged-dragon.webp",
+        "width": 731,
+        "height": 768,
+        "png_bytes": 799231,
+        "webp_bytes": 583160
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "St. Margaret emerging from Dragon",
+      "object_identifier": "W.186, fol. 291v",
+      "date": "Ca. 1460 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "c1fd00c6e1be1d51bc000cdd4c0a666a358a15d0eb83b2e9d4e19b90e0d18daf",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000586_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete source-visible contacting group. Expanded source input prevents clipping wings; low original enclosure retained where physically supporting figures. AI-assisted approximate extraction with exact original/prompts and native visible subject cap.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w186-291v-set",
+        "name": "St. Margaret emerging from Dragon (walters-w186-291v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6780,
+      "height": 8486
+    },
+    "master_longest_dimension_cap": 1261,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two oppositely swimming fish joined by the original curved linking stroke. Part of the Walters W.73 Zodiac set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "two",
+      "linked",
+      "zodiac",
+      "fish"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "two-linked-zodiac-fish",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1r",
+    "png": "png/two-linked-zodiac-fish.png",
+    "webp": "webp/two-linked-zodiac-fish.webp",
+    "width": 1044,
+    "height": 582,
+    "png_bytes": 723335,
+    "webp_bytes": 570736,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/two-linked-zodiac-fish.png",
+        "webp": "webp/128/two-linked-zodiac-fish.webp",
+        "width": 128,
+        "height": 71,
+        "png_bytes": 17795,
+        "webp_bytes": 13946
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/two-linked-zodiac-fish.png",
+        "webp": "webp/256/two-linked-zodiac-fish.webp",
+        "width": 256,
+        "height": 143,
+        "png_bytes": 58803,
+        "webp_bytes": 46160
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/two-linked-zodiac-fish.png",
+        "webp": "webp/512/two-linked-zodiac-fish.webp",
+        "width": 512,
+        "height": 285,
+        "png_bytes": 196870,
+        "webp_bytes": 157258
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/two-linked-zodiac-fish.png",
+        "webp": "webp/768/two-linked-zodiac-fish.webp",
+        "width": 768,
+        "height": 428,
+        "png_bytes": 411764,
+        "webp_bytes": 343104
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram of the zodiac",
+      "object_identifier": "W.73, fol. 1r",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ffb54e2de949fa417ec244b99ad1575df380308d6a7466a29078367df143d568",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000003_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source painting retains its worn original pigment. The zodiac proceeds counterclockwise in this diagram; identity is checked against the institution description and visible original, rather than inferred from clockwise order. Labels and diagram divisions are excluded from the exterior. Original diagram strokes crossing painted subject pixels remain historical source texture. Any rigid orientation correction is recorded. Source authority: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1r-set",
+        "name": "Walters W.73 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9282,
+      "height": 12192
+    },
+    "master_longest_dimension_cap": 1044,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The visible bust of a pink and green angel holding a small musical instrument. Part of the St. Margaret emerging from Dragon (walters-w186-291v) set.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "angel",
+      "wing",
+      "robe",
+      "musical-instrument"
+    ],
+    "facing": "right",
+    "colors": [
+      "pink",
+      "green",
+      "gold",
+      "cream",
+      "brown"
+    ],
+    "composition": "single-figure",
+    "name": "upper-left-angel-with-musical-instrument-visible-bust",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w186-291v",
+    "png": "png/upper-left-angel-with-musical-instrument-visible-bust.png",
+    "webp": "webp/upper-left-angel-with-musical-instrument-visible-bust.webp",
+    "width": 519,
+    "height": 603,
+    "png_bytes": 520825,
+    "webp_bytes": 382428,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/upper-left-angel-with-musical-instrument-visible-bust.png",
+        "webp": "webp/128/upper-left-angel-with-musical-instrument-visible-bust.webp",
+        "width": 110,
+        "height": 128,
+        "png_bytes": 28110,
+        "webp_bytes": 22350
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/upper-left-angel-with-musical-instrument-visible-bust.png",
+        "webp": "webp/256/upper-left-angel-with-musical-instrument-visible-bust.webp",
+        "width": 220,
+        "height": 256,
+        "png_bytes": 101753,
+        "webp_bytes": 78206
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/upper-left-angel-with-musical-instrument-visible-bust.png",
+        "webp": "webp/512/upper-left-angel-with-musical-instrument-visible-bust.webp",
+        "width": 441,
+        "height": 512,
+        "png_bytes": 379327,
+        "webp_bytes": 285852
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "St. Margaret emerging from Dragon",
+      "object_identifier": "W.186, fol. 291v",
+      "date": "Ca. 1460 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "c1fd00c6e1be1d51bc000cdd4c0a666a358a15d0eb83b2e9d4e19b90e0d18daf",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000586_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w186-291v-set",
+        "name": "St. Margaret emerging from Dragon (walters-w186-291v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6780,
+      "height": 8486
+    },
+    "master_longest_dimension_cap": 603,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The source-visible upper body of the right angel playing a long red and gold trumpet above Saint Margaret. Part of the St. Margaret emerging from Dragon (walters-w186-291v) set.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "angel",
+      "trumpet",
+      "wing",
+      "robe"
+    ],
+    "facing": "left",
+    "colors": [
+      "green",
+      "red",
+      "gold",
+      "cream",
+      "brown"
+    ],
+    "composition": "single-figure",
+    "name": "upper-right-angel-with-trumpet-visible-bust",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w186-291v",
+    "png": "png/upper-right-angel-with-trumpet-visible-bust.png",
+    "webp": "webp/upper-right-angel-with-trumpet-visible-bust.webp",
+    "width": 805,
+    "height": 669,
+    "png_bytes": 375514,
+    "webp_bytes": 279952,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/upper-right-angel-with-trumpet-visible-bust.png",
+        "webp": "webp/128/upper-right-angel-with-trumpet-visible-bust.webp",
+        "width": 128,
+        "height": 106,
+        "png_bytes": 13492,
+        "webp_bytes": 11814
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/upper-right-angel-with-trumpet-visible-bust.png",
+        "webp": "webp/256/upper-right-angel-with-trumpet-visible-bust.webp",
+        "width": 256,
+        "height": 213,
+        "png_bytes": 46103,
+        "webp_bytes": 36984
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/upper-right-angel-with-trumpet-visible-bust.png",
+        "webp": "webp/512/upper-right-angel-with-trumpet-visible-bust.webp",
+        "width": 512,
+        "height": 426,
+        "png_bytes": 162718,
+        "webp_bytes": 127690
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/upper-right-angel-with-trumpet-visible-bust.png",
+        "webp": "webp/768/upper-right-angel-with-trumpet-visible-bust.webp",
+        "width": 768,
+        "height": 638,
+        "png_bytes": 341797,
+        "webp_bytes": 261538
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "St. Margaret emerging from Dragon",
+      "object_identifier": "W.186, fol. 291v",
+      "date": "Ca. 1460 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "c1fd00c6e1be1d51bc000cdd4c0a666a358a15d0eb83b2e9d4e19b90e0d18daf",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000586_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w186-291v-set",
+        "name": "St. Margaret emerging from Dragon (walters-w186-291v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 6780,
+      "height": 8486
+    },
+    "master_longest_dimension_cap": 805,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Waist-length haloed angel with long gold wings holding a closed book, in a green robe. Part of the Walters W.7 Matthew portrait ornaments set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "angel",
+      "book",
+      "wing",
+      "halo"
+    ],
+    "facing": "right",
+    "colors": [
+      "gold",
+      "green",
+      "blue",
+      "brown",
+      "cream"
+    ],
+    "composition": "standalone",
+    "name": "winged-haloed-angel-holding-closed-book",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w7-15v",
+    "png": "png/winged-haloed-angel-holding-closed-book.png",
+    "webp": "webp/winged-haloed-angel-holding-closed-book.webp",
+    "width": 1540,
+    "height": 1154,
+    "png_bytes": 1718574,
+    "webp_bytes": 1358714,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/winged-haloed-angel-holding-closed-book.png",
+        "webp": "webp/128/winged-haloed-angel-holding-closed-book.webp",
+        "width": 128,
+        "height": 96,
+        "png_bytes": 20826,
+        "webp_bytes": 16402
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/winged-haloed-angel-holding-closed-book.png",
+        "webp": "webp/256/winged-haloed-angel-holding-closed-book.webp",
+        "width": 256,
+        "height": 192,
+        "png_bytes": 68084,
+        "webp_bytes": 52682
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/winged-haloed-angel-holding-closed-book.png",
+        "webp": "webp/512/winged-haloed-angel-holding-closed-book.webp",
+        "width": 512,
+        "height": 384,
+        "png_bytes": 228874,
+        "webp_bytes": 184076
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/winged-haloed-angel-holding-closed-book.png",
+        "webp": "webp/768/winged-haloed-angel-holding-closed-book.webp",
+        "width": 768,
+        "height": 576,
+        "png_bytes": 470658,
+        "webp_bytes": 374300
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Portrait of the Evangelist Matthew",
+      "object_identifier": "W.7, fol. 15v",
+      "date": "Middle of the 11th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "cca95ef468d7a30acc6fc7fd7e301ff1a0819425f6c4c652f3baad6b977004ad",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000034_1022.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original half-length book-holding angel, complete wings and halo, as visible above the lintel. Empty sky/architecture cleared. Native source RGB retained, original waist truncation preserved; no invented legs or SVG redraw.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w7-15v-set",
+        "name": "Walters W.7 Matthew portrait ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8501,
+      "height": 10092
+    },
+    "master_longest_dimension_cap": 1540,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A winged zodiac creature with two long curling necks and snake-like heads; the institution identifies this unusual medieval rendering as Scorpio. Part of the Walters W.73 Zodiac set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "winged",
+      "two",
+      "necked",
+      "zodiac",
+      "creature"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "winged-two-necked-zodiac-creature",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1r",
+    "png": "png/winged-two-necked-zodiac-creature.png",
+    "webp": "webp/winged-two-necked-zodiac-creature.webp",
+    "width": 960,
+    "height": 862,
+    "png_bytes": 747132,
+    "webp_bytes": 579456,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/winged-two-necked-zodiac-creature.png",
+        "webp": "webp/128/winged-two-necked-zodiac-creature.webp",
+        "width": 128,
+        "height": 115,
+        "png_bytes": 22577,
+        "webp_bytes": 16466
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/winged-two-necked-zodiac-creature.png",
+        "webp": "webp/256/winged-two-necked-zodiac-creature.webp",
+        "width": 256,
+        "height": 230,
+        "png_bytes": 71601,
+        "webp_bytes": 53460
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/winged-two-necked-zodiac-creature.png",
+        "webp": "webp/512/winged-two-necked-zodiac-creature.webp",
+        "width": 512,
+        "height": 460,
+        "png_bytes": 237653,
+        "webp_bytes": 189810
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/winged-two-necked-zodiac-creature.png",
+        "webp": "webp/768/winged-two-necked-zodiac-creature.webp",
+        "width": 768,
+        "height": 690,
+        "png_bytes": 493586,
+        "webp_bytes": 409502
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram of the zodiac",
+      "object_identifier": "W.73, fol. 1r",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "ffb54e2de949fa417ec244b99ad1575df380308d6a7466a29078367df143d568",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000003_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source painting retains its worn original pigment. The zodiac proceeds counterclockwise in this diagram; identity is checked against the institution description and visible original, rather than inferred from clockwise order. Labels and diagram divisions are excluded from the exterior. Original diagram strokes crossing painted subject pixels remain historical source texture. Any rigid orientation correction is recorded. Source authority: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1r-set",
+        "name": "Walters W.73 Zodiac"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9282,
+      "height": 12192
+    },
+    "master_longest_dimension_cap": 960,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  }
+]
